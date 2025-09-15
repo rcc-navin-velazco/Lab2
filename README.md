@@ -98,5 +98,5 @@ Go back to the section that I mentioned above that needs to be repeated everytim
 
 ## Turning in your Assignment
 
-- You will compress your folder Lab1 to a zip file
+- You will compress your folder Lab2 to a zip file
 - You will then submit the zip file to canvas.
