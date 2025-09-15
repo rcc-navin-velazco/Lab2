@@ -3,7 +3,7 @@
 
 
 
-# C++ Programming Lab 1: Outputting to the Console Window
+# C++ Programming Lab 2: Practicing Arithmetic Operations
 
 
 ---
